@@ -1,18 +1,14 @@
-## Getting Started
+## Área - Beecrowd 1012
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Escreva um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e mostre:
+<br/>a) a área do triângulo retângulo que tem A por base e C por altura.
+<br/>b) a área do círculo de raio C. (pi = 3.14159)
+<br/>c) a área do trapézio que tem A e B por bases e C por altura.
+<br/>d) a área do quadrado que tem lado B.
+<br/>e) a área do retângulo que tem lados A e B.
 
-## Folder Structure
+## Entrada
+O arquivo de entrada contém três valores com um dígito após o ponto decimal.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Saída
+O arquivo de saída deverá conter 5 linhas de dados. Cada linha corresponde a uma das áreas descritas acima, sempre com mensagem correspondente e um espaço entre os dois pontos e o valor. O valor calculado deve ser apresentado com 3 dígitos após o ponto decimal.

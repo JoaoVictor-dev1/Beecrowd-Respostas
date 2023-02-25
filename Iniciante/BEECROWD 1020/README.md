@@ -1,18 +1,11 @@
-## Getting Started
+## Idade em Dias - Beecrowd 1020
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Leia um valor inteiro correspondente à idade de uma pessoa em dias e informe-a em anos, meses e dias
 
-## Folder Structure
+Obs.: apenas para facilitar o cálculo, considere todo ano com 365 dias e todo mês com 30 dias. Nos casos de teste nunca haverá uma situação que permite 12 meses e alguns dias, como 360, 363 ou 364. Este é apenas um exercício com objetivo de testar raciocínio matemático simples.
 
-The workspace contains two folders by default, where:
+## Entrada
+O arquivo de entrada contém um valor inteiro.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Saída
+Imprima a saída conforme exemplo fornecido.
